@@ -1,0 +1,120 @@
+[
+    {
+        "name": "main_heading",
+        "id": "main_heading",
+        "type": "text",
+        "label": "Main Heading",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control"
+    },
+    {
+        "name": "short_des",
+        "id": "short_des",
+        "type": "textarea",
+        "label": "Short Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "icon1",
+        "id": "icon1",
+        "type": "text",
+        "label": "Icon One",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control"
+    },
+    {
+        "name": "icon1_url",
+        "id": "icon1_url",
+        "type": "text",
+        "label": "Icon Url",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control"
+    },
+    {
+        "name": "icon2",
+        "id": "icon2",
+        "type": "text",
+        "label": "Icon Two",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control"
+    },
+    {
+        "name": "icon2_url",
+        "id": "icon2_url",
+        "type": "text",
+        "label": "Icon Url",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control"
+    },
+    {
+        "name": "icon3",
+        "id": "icon3",
+        "type": "text",
+        "label": "Icon Three",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control"
+    },
+    {
+        "name": "icon3_url",
+        "id": "icon3_url",
+        "type": "text",
+        "label": "Icon Url",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control"
+    },
+    {
+        "name": "icon4",
+        "id": "icon4",
+        "type": "text",
+        "label": "Icon Four",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control"
+    },
+    {
+        "name": "icon4_url",
+        "id": "icon4_url",
+        "type": "text",
+        "label": "Icon Url",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control"
+    },
+    {
+        "name": "address",
+        "id": "address",
+        "type": "text",
+        "label": "Address",
+        "value": "",
+        "place_holder": "Address Here",
+        "class": "form-control"
+    },
+    {
+        "name": "phone",
+        "id": "phone",
+        "type": "text",
+        "label": "Phone Number",
+        "value": "",
+        "place_holder": "Phone Number Here",
+        "class": "form-control"
+    },
+    {
+        "name": "email",
+        "id": "email",
+        "type": "text",
+        "label": "Email",
+        "value": "",
+        "place_holder": "Email Here",
+        "class": "form-control"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "name": "main_heading",
+        "id": "main_heading",
+        "type": "text",
+        "label": "Heading",
+        "value": "",
+        "place_holder": "Section Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc",
+        "id": "short_desc",
+        "type": "textarea",
+        "label": "Description",
+        "value": "",
+        "place_holder": "short description",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "address",
+        "id": "address",
+        "type": "text",
+        "label": "Address",
+        "value": "",
+        "place_holder": "Address",
+        "class": "form-control"
+    },
+    {
+        "name": "phone_no",
+        "id": "phone_no",
+        "type": "text",
+        "label": "Phone No",
+        "value": "",
+        "place_holder": "phone no",
+        "class": "form-control"
+    },
+    {
+        "name": "email",
+        "id": "email",
+        "type": "text",
+        "label": "Email Address",
+        "value": "",
+        "place_holder": "email address",
+        "class": "form-control"
+    },
+    {
+        "name": "btn_txt",
+        "id": "btn_txt",
+        "type": "text",
+        "label": "Button Text",
+        "value": "",
+        "place_holder": "Enter Button Text",
+        "class": "form-control"
+    },
+    {
+        "name": "btn_url",
+        "id": "btn_url",
+        "type": "text",
+        "label": "Button Url",
+        "value": "",
+        "place_holder": "Enter Button url",
+        "class": "form-control"
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "name": "heading1",
+        "id": "heading1",
+        "type": "text",
+        "label": "Heading",
+        "value": "",
+        "place_holder": "Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "paragraph1",
+        "id": "paragraph1",
+        "type": "textarea",
+        "label": "Paragraph",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "paragraph2",
+        "id": "paragraph2",
+        "type": "textarea",
+        "label": "Paragraph",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "image1",
+        "id": "image1",
+        "type": "file",
+        "label": "Image",
+        "value": "",
+        "class": "form-control",
+        "style": "width:120px;max-width:100%;margin-top:12px"
+    },
+    {
+        "name": "image1",
+        "type": "hidden",
+        "value": ""
+    },
+    {
+        "name": "heading2",
+        "id": "heading2",
+        "type": "text",
+        "label": "Heading",
+        "value": "",
+        "place_holder": "Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "paragraph3",
+        "id": "paragraph3",
+        "type": "textarea",
+        "label": "Paragraph",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "paragraph4",
+        "id": "paragraph4",
+        "type": "textarea",
+        "label": "Paragraph",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "image2",
+        "id": "image2",
+        "type": "file",
+        "label": "Image",
+        "value": "",
+        "class": "form-control",
+        "style": "width:120px;max-width:100%;margin-top:12px"
+    },
+    {
+        "name": "image2",
+        "type": "hidden",
+        "value": ""
+    },
+    {
+        "name": "heading3",
+        "id": "heading3",
+        "type": "text",
+        "label": "Heading",
+        "value": "",
+        "place_holder": "Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "paragraph5",
+        "id": "paragraph5",
+        "type": "textarea",
+        "label": "Paragraph",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "paragraph6",
+        "id": "paragraph6",
+        "type": "textarea",
+        "label": "Paragraph",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "image3",
+        "id": "image3",
+        "type": "file",
+        "label": "Image",
+        "value": "",
+        "class": "form-control",
+        "style": "width:120px;max-width:100%;margin-top:12px"
+    },
+    {
+        "name": "image3",
+        "type": "hidden",
+        "value": ""
+    }
+]

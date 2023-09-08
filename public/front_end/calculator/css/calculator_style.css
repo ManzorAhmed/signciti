@@ -1,0 +1,352 @@
+body {
+    background-color: #fff;
+    color: #000;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+@font-face
+{
+    src:url(../fonts/ActionMan.woff) format('truetype');
+    font-family:ActionMan;
+}
+@font-face
+{
+    src:url(../fonts/Bubble.woff) format('truetype');
+    font-family:Bubble;
+}
+/*@font-face
+{
+    src:url(fonts/HOBON.ttf) format('truetype');
+    font-family:HOBON;
+}*/
+@font-face
+{
+    src:url(../fonts/TypewriterDemi-Bold.otf) format('truetype');
+    font-family:TypewriterDemi-Bold;
+}
+@font-face
+{
+    src:url(../fonts/AlegreyaSCBlack.otf) format('truetype');
+    font-family:AlegreyaSCBlack;
+}
+@font-face
+{
+    src:url(../fonts/AlegreyaSC-Bold.otf) format('truetype');
+    font-family:AlegreyaSC-Bold;
+}
+@font-face
+{
+    src:url(../fonts/Anton-Regular.ttf) format('truetype');
+    font-family:Anton-Regular;
+}
+@font-face
+{
+    src:url(../fonts/bank-gothic.ttf) format('truetype');
+    font-family:bank-gothic;
+}
+@font-face
+{
+    src:url(../fonts/CalligraphyUnicase.otf) format('truetype');
+    font-family:CalligraphyUnicase;
+}
+@font-face
+{
+    src:url(../fonts/basicsanssf-bold.ttf) format('truetype');
+    font-family:basicsanssf-bold;
+}
+@font-face
+{
+    src:url(../fonts/AlegreyaSC-Regular.otf) format('truetype');
+    font-family:AlegreyaSC-Regular;
+}
+@font-face
+{
+    src:url(../fonts/Bauer.woff) format('truetype');
+    font-family:Bauer;
+}
+@font-face
+{
+    src:url(../fonts/astounder-squared-lc-bb.ttf) format('truetype');
+    font-family:astounder-squared-lc-bb;
+}
+@font-face
+{
+    src:url(../fonts/BioRhyme-Bold.ttf) format('truetype');
+    font-family:BioRhyme-Bold;
+}
+@font-face
+{
+    src:url(../fonts/Calligrapher-font.ttf) format('truetype');
+    font-family:Calligrapher-font;
+}
+@font-face
+{
+    src:url(../fonts/Basic-Regular.ttf) format('truetype');
+    font-family:Basic-Regular;
+}
+@font-face
+{
+    src:url(../fonts/BioRhyme-ExtraBold.ttf) format('truetype');
+    font-family:BioRhyme-ExtraBold;
+}
+/*@font-face
+{
+    src:url(../fonts/Canciller-Demibold.ttf) format('truetype');
+    font-family:Canciller-Demibold;
+}*/
+@font-face
+{
+    src:url(../fonts/ClarendonCondensedBold.ttf) format('truetype');
+    font-family:ClarendonCondensedBold;
+}
+@font-face
+{
+    src:url(../fonts/Clarendon-Regular.ttf) format('truetype');
+    font-family:Clarendon-Regular;
+}
+@font-face
+{
+    src:url(../fonts/ClarendonTMed.ttf) format('truetype');
+    font-family:ClarendonTMed;
+}
+@font-face
+{
+    src:url(../fonts/CloisterBlack.ttf) format('truetype');
+    font-family:CloisterBlack;
+}
+@font-face
+{
+    src:url(../fonts/CocoBiker-Regular-Trial.ttf) format('truetype');
+    font-family:CocoBiker-Regular-Trial;
+}
+@font-face
+{
+    src:url(../fonts/CrimsonText-Regular.ttf) format('truetype');
+    font-family:CrimsonText-Regular;
+}
+@font-face
+{
+    src:url(../fonts/D-DIN.otf) format('truetype');
+    font-family:D-DIN;
+}
+@font-face
+{
+    src:url(../fonts/D-DINCondensed-Bold.otf) format('truetype');
+    font-family:D-DINCondensed-Bold;
+}
+@font-face
+{
+    src:url(../fonts/D-DINExp-Bold.otf) format('truetype');
+    font-family:D-DINExp-Bold;
+}
+/*@font-face
+{
+    src:url(../fonts/D-GiuliaDEMO-Bold.otf) format('truetype');
+    font-family:GiuliaDEMO-Bold;
+}*/
+@font-face
+{
+    src:url(../fonts/GOTHICB.ttf) format('truetype');
+    font-family:GOTHICB;
+}
+@font-face
+{
+    src:url(../fonts/LibreBodoni-Bold.otf) format('truetype');
+    font-family:LibreBodoni-Bold;
+}
+@font-face
+{
+    src:url(../fonts/LibreBodoni-BoldItalic.otf) format('truetype');
+    font-family:LibreBodoni-BoldItalic;
+}
+@font-face
+{
+    src:url(../fonts/RobotoSlab-Regular.ttf) format('truetype');
+    font-family:RobotoSlab-Regular;
+}
+@font-face
+{
+    src:url(../fonts/Typewriter-Medium.otf) format('truetype');
+    font-family:Typewriter-Medium;
+}
+.bg-light {
+    color: #212529 !important;
+    background-color: #e5e5e5 !important;
+    border-color: #e5e5e5 !important;
+}
+p {
+    line-height: 1.4em;
+} 
+p {
+    font-family: inherit;
+}
+.btn-link {
+    font-weight: 400;
+    color: #00bc8c;
+    text-decoration: none;
+    border: none;
+    padding: 0;
+    background: none;
+    color: #00f;
+    font-size: 14px;
+}
+
+tt {
+    background-color: #eff0f1;
+    padding: 4px;
+}
+
+.example > div {
+    margin-top: 9px;
+}
+
+@media (min-width: 768px) {
+    .example {
+        display: flex;
+    }
+
+    .example > div, .example > pre {
+        flex: 1;
+        margin: 0 10px 0 0;
+    } 
+    .m-md-0
+    {
+        margin:unset !important;
+    } 
+    .p-md-0
+    {
+        padding:unset !important;
+    }
+}
+
+.font-select {
+    font-size: 16px;
+    width: 103%;
+    position: relative;
+    display: inline-block;
+    font-size: 21px;
+    text-align: center;
+    font-weight: bold;
+    outline: 0;
+    border-radius: 0.25rem;
+}
+
+.font-select > span {
+    height: 44px;
+    line-height: 32px;
+    padding: 4px 8px 3px 8px;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%
+}
+
+#custCarousel .carousel-indicators {
+    position: static;
+    margin-top: 20px
+}
+
+#custCarousel .carousel-indicators > li {
+    width: 100%
+}
+
+#custCarousel .carousel-indicators li img {
+    display: block;
+    opacity: 0.5;
+}
+
+#custCarousel .carousel-indicators li.active img {
+    opacity: 1;
+    border: 1px solid red;
+    border-radius:4px;
+}
+
+#custCarousel .carousel-indicators li:hover img {
+    opacity: 0.75
+}
+
+.carousel-item img {
+    width: 100%
+} 
+.card {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border-radius: .25rem;
+}
+.card-body {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: .9rem;
+} 
+.carousel-indicators {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 15;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-left: 0;
+    margin-right: 10%;
+    margin-left: 10%;
+    list-style: none;
+}
+.textarea_section1, .projected_section1, .mounting_section1, .thickness_section1, .paper_template1, .other_font1, .finish1, .color1
+{
+    display: none;
+}
+@media screen and (max-width: 768px) 
+{
+    .p-md-2
+    {
+        padding:10px !important;
+    }
+    .ml-md-2
+    {
+        margin-left: .5rem !important;
+    }
+    .m-md-0
+    {
+        margin:unset !important;
+    } 
+    .p-md-0
+    {
+        padding:unset !important;
+    }
+    .display-4 {
+        font-size: 1.5rem;  
+    }
+    .full-width {
+        margin-left: calc(50% - 45vw);
+        margin-right: calc(50% - 45vw);
+    }
+    .display-3 { 
+        font-size: 1.5rem;
+    }
+}

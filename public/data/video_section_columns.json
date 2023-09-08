@@ -1,0 +1,133 @@
+[
+    {
+        "name": "video_url",
+        "id": "video_url",
+        "type": "text",
+        "label": "Video Url",
+        "value": "",
+        "place_holder": "Enter Video Url",
+        "class": "form-control"
+    },
+    {
+        "name": "background_img",
+        "id": "background_img",
+        "type": "file",
+        "label": "Background Image",
+        "value": "",
+        "class": "form-control",
+        "style": "width:120px;max-width:100%;margin-top:12px"
+    },
+    {
+        "name": "counter1",
+        "id": "counter1",
+        "type": "text",
+        "label": "Counter",
+        "value": "",
+        "place_holder": "Enter Counter 1",
+        "class": "form-control"
+    },
+    {
+        "name": "text1",
+        "id": "text1",
+        "type": "text",
+        "label": "Enter Text",
+        "value": "",
+        "place_holder": "Enter Video Url",
+        "class": "form-control"
+    },
+    {
+        "name": "icon1",
+        "id": "icon1",
+        "type": "text",
+        "label": "Icon",
+        "value": "",
+        "place_holder": "Enter icon",
+        "class": "form-control"
+    },
+    {
+        "name": "counter2",
+        "id": "counter2",
+        "type": "text",
+        "label": "Counter",
+        "value": "",
+        "place_holder": "Enter Counter 2",
+        "class": "form-control"
+    },
+    {
+        "name": "text2",
+        "id": "text2",
+        "type": "text",
+        "label": "Enter Text",
+        "value": "",
+        "place_holder": "Enter Text",
+        "class": "form-control"
+    },
+    {
+        "name": "icon2",
+        "id": "icon2",
+        "type": "text",
+        "label": "Icon",
+        "value": "",
+        "place_holder": "Enter Icon",
+        "class": "form-control"
+    },
+    {
+        "name": "counter3",
+        "id": "counter3",
+        "type": "text",
+        "label": "Counter 3",
+        "value": "",
+        "place_holder": "Enter Counter 3",
+        "class": "form-control"
+    },
+    {
+        "name": "text3",
+        "id": "text3",
+        "type": "text",
+        "label": "Enter Text",
+        "value": "",
+        "place_holder": "Enter Text",
+        "class": "form-control"
+    },
+    {
+        "name": "icon3",
+        "id": "icon3",
+        "type": "text",
+        "label": "Icon",
+        "value": "",
+        "place_holder": "Enter Icon",
+        "class": "form-control"
+    },
+    {
+        "name": "counter4",
+        "id": "counter4",
+        "type": "text",
+        "label": "Counter 4",
+        "value": "",
+        "place_holder": "Enter Counter 4",
+        "class": "form-control"
+    },
+    {
+        "name": "text4",
+        "id": "text4",
+        "type": "text",
+        "label": "Enter Text",
+        "value": "",
+        "place_holder": "Enter Text",
+        "class": "form-control"
+    },
+    {
+        "name": "icon4",
+        "id": "icon4",
+        "type": "text",
+        "label": "Icon",
+        "value": "",
+        "place_holder": "Enter Icon",
+        "class": "form-control"
+    },
+    {
+    "name": "background_img",
+    "type": "hidden",
+    "value": ""
+}
+]

@@ -1,0 +1,141 @@
+[
+    {
+        "name": "main_heading",
+        "id": "main_heading",
+        "type": "text",
+        "label": "Heading",
+        "value": "",
+        "place_holder": "Section Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "title1",
+        "id": "title1",
+        "type": "text",
+        "label": "First Title",
+        "value": "",
+        "place_holder": "First Title Here",
+        "class": "form-control"
+    },
+    {
+        "name": "price1",
+        "id": "price1",
+        "type": "text",
+        "label": "First Price",
+        "value": "",
+        "place_holder": "First price Here",
+        "class": "form-control"
+    },
+    {
+        "name": "title1_desc1",
+        "id": "title1_desc1",
+        "type": "text",
+        "label": "Short Description",
+        "value": "",
+        "place_holder": "Short Description",
+        "class": "form-control"
+    },
+    {
+        "name": "title1_desc2",
+        "id": "title1_desc2",
+        "type": "text",
+        "label": "Short Description",
+        "value": "",
+        "place_holder": "Short Description",
+        "class": "form-control"
+    },
+    {
+        "name": "title1_desc3",
+        "id": "title1_desc3",
+        "type": "text",
+        "label": "Short Description",
+        "value": "",
+        "place_holder": "Short Description",
+        "class": "form-control"
+    },
+    {
+        "name": "title1_desc4",
+        "id": "title1_desc4",
+        "type": "text",
+        "label": "Short Description",
+        "value": "",
+        "place_holder": "First Title Here",
+        "class": "form-control"
+    },
+    {
+        "name": "title1_desc5",
+        "id": "title1_desc5",
+        "type": "text",
+        "label": "Short Description",
+        "value": "",
+        "place_holder": "First Title Here",
+        "class": "form-control"
+    },
+    {
+        "name": "title2",
+        "id": "title2",
+        "type": "text",
+        "label": "Second Title",
+        "value": "",
+        "place_holder": "Second Title Here",
+        "class": "form-control"
+    },
+    {
+        "name": "price2",
+        "id": "price2",
+        "type": "text",
+        "label": "Second price",
+        "value": "",
+        "place_holder": "Second price Here",
+        "class": "form-control"
+    },
+    {
+        "name": "title3",
+        "id": "title3",
+        "type": "text",
+        "label": "Third Title",
+        "value": "",
+        "place_holder": "Third Title Here",
+        "class": "form-control"
+    },
+    {
+        "name": "price3",
+        "id": "price3",
+        "type": "text",
+        "label": "Third price",
+        "value": "",
+        "place_holder": "Third price Here",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "title4",
+        "id": "title4",
+        "type": "text",
+        "label": "Fourth Title",
+        "value": "",
+        "place_holder": "Third Title Here",
+        "class": "form-control"
+    },
+    {
+        "name": "price4",
+        "id": "price4",
+        "type": "text",
+        "label": "Fourth price",
+        "value": "",
+        "place_holder": "Third price Here",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "short_desc3",
+        "id": "short_desc3",
+        "type": "textarea",
+        "label": "Third Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    }
+
+]

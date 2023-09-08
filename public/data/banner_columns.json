@@ -1,0 +1,71 @@
+[
+    {
+        "name": "main_heading",
+        "id": "main_heading",
+        "type": "text",
+        "label": "Heading",
+        "value": "",
+        "place_holder": "Section Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc",
+        "id": "short_desc",
+        "type": "textarea",
+        "label": "Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "button_one",
+        "id": "button_one",
+        "type": "text",
+        "label": "Button One Text",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control"
+    },
+    {
+        "name": "button_one_url",
+        "id": "button_one_url",
+        "type": "text",
+        "label": "Button One Url",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control"
+    },
+    {
+        "name": "button_two",
+        "id": "button_two",
+        "type": "text",
+        "label": "Button Two Text",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control"
+    },
+    {
+        "name": "button_two_url",
+        "id": "button_two_url",
+        "type": "text",
+        "label": "Button Two Url",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control"
+    },
+    {
+        "name": "banner_img",
+        "id": "banner_img",
+        "type": "file",
+        "label": "Banner Image",
+        "value": "",
+        "class": "form-control",
+        "style": "width:120px;max-width:100%;margin-top:12px"
+    },
+    {
+        "name": "banner_img",
+        "type": "hidden",
+        "value": ""
+    }
+]
